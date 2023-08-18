@@ -1,0 +1,7 @@
+contacto
+---------
+incluido la cabecera
+
+formulario para recibri consultas
+
+incluido un mapa de la ubicacion de la empres

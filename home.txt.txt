@@ -1,0 +1,14 @@
+ pagina principal 
+-----------------------
+logo y la opcion de buscar
+
+creado menu con opciones
+
+slider con 4
+ imagenes
+
+servicios con tres targetas
+
+llamada a una accion
+
+pie de pagina 
