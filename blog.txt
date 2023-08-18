@@ -1,0 +1,5 @@
+blog
+--------
+incluida la cabezera
+
+seccion que muestra las entradas
