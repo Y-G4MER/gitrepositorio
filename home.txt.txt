@@ -7,8 +7,13 @@ creado menu con opciones
 slider con 4
  imagenes
 
-servicios con tres targetas
+servicios con seis targetas
 
-llamada a una accion
+
+
+mostrar loslogos de los auspiciadores
+
+fotos de los ejecutivos de la empresa
+
 
 pie de pagina 
